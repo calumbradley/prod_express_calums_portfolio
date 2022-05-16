@@ -94,6 +94,8 @@ jQuery(document).ready(function($) {
         
 
       $.ajax({
+        contentType: "application/json",
+        dataType: 'json',
         type: "POST",
         url: "api",
         data: JSON.stringify(data),
