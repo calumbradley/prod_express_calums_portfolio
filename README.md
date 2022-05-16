@@ -9,8 +9,7 @@ git clone https://github.com/calumbradley/prod_calums_portfolio
 
 ### 2. Run the project
 ```shell
-npm i
-npm start
+npm install
 ```
 
 ### 3. Install prod dependancies
