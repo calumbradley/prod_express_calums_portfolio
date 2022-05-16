@@ -14,7 +14,7 @@ npm install
 
 ### 3. Install prod dependancies
 ```shell
-npm start
+npm run dev
 ```
 
 ### 3. Build the project
