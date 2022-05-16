@@ -1,9 +1,11 @@
 const express = require('express')
 const path = require('path')
+const Datastore = require('nedb')
 
 require('dotenv').config()
 
 const app = express()
+db = new Datastore({ filename: './database/.db', autoload: true })
 
 app.use(express.static(path.join(__dirname, 'build')))
 // Body Parser
@@ -15,9 +17,13 @@ app.get('/', function (req, res) {
 })
 
 app.post('/api', (req, res) => {
-  console.log(req.body)
   res.sendStatus(200)
+  const data = req.body
+  console.log(data);
+  db.insert(data)
 })
+
+
 
 const port = process.env.PORT || 5001
 

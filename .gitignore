@@ -136,3 +136,7 @@ docs/
 # ignore mac files
 
 .DS_Store
+
+# Ignore the database
+
+database/
