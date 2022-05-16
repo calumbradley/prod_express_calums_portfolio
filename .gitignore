@@ -132,3 +132,7 @@ dist
 # ignore docs folder
 
 docs/
+
+# ignore mac files
+
+.DS_Store
