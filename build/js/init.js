@@ -74,28 +74,29 @@ jQuery(document).ready(function($) {
       randomize: false
     });
 
-    $("form#contactForm button.submit").click(function() {
+    $("form#contactForm button.submit").click(function(event) {
       $("#image-loader").fadeIn();
+      // event.preventDefault();
 
       var contactName = $("#contactForm #contactName").val();
       var contactEmail = $("#contactForm #contactEmail").val();
       var contactSubject = $("#contactForm #contactSubject").val();
       var contactMessage = $("#contactForm #contactMessage").val();
 
-      var data =
-        "contactName=" +
-        contactName +
-        "&contactEmail=" +
-        contactEmail +
-        "&contactSubject=" +
-        contactSubject +
-        "&contactMessage=" +
-        contactMessage;
+      var data = {
+        
+        contactName,
+        contactEmail,
+        contactSubject,
+        contactMessage
+      
+      }
+        
 
       $.ajax({
         type: "POST",
-        url: "inc/sendEmail.php",
-        data: data,
+        url: "api",
+        data: JSON.stringify(data),
         success: function(msg) {
           // Message was sent
           if (msg == "OK") {
@@ -114,5 +115,6 @@ jQuery(document).ready(function($) {
       });
       return false;
     });
+    console.log(data);
   }, time);
 });

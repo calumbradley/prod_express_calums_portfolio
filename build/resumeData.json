@@ -41,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Prgamming languages with plenty of 'Syntactic sugar'",
     "education": [
       {
         "school": "Mid Cheshire College, Crewe",
@@ -65,12 +65,12 @@
       {
         "title": "Platform Engineer",
         "years": "August 2020 - Present",
-        "description": "Mangement, engineering of large scale data driven application architecture, responsibilities include change management, bug fixes, management of version control & application maintenance"
+        "description": "Management & engineering of a large scale data-driven application architecture utilising .Net and SQL server, full-stack development responsible for change management, bug fixes, Git version control & application maintenance, achievements include implementing a landing page available to the entire applications user base and managing an ETL performance and optimisation process within our back end SQL server to monitor and alert on any application errors. Problem identification to owning and driving hot-fixes into front-end implementation using applicable frameworks and service management techniques. Maintenance and incident management with REST API’s critical to service stability."
       },
       {
         "title": "Product Specialist",
         "years": "December 2015 - July 2020",
-        "description": "Managing queries with; SWIFT, H2H XML file support, API solutions, certificate issues, international payments. Deliver high quality projects, onboarding registrations and focusing on high quality implementation for H2H corporates. Conduct usability testing, constructing test implementation plans and translating insights into workable solutions for system releases. Collaborate with product managers and engineering teams from problem recognition to owning and driving hot-fixes into front-end implementation using applicable frameworks and service management techniques. Working with large scale API’s and the Corporates that use API’s for mobile payments solutions."
+        "description": "Managing queries with; SWIFT, H2H XML file support, API solutions, certificate issues, international payments. Deliver high quality projects, onboarding registrations and focusing on high quality implementation for H2H corporates. Conduct usability testing, constructing test implementation plans and translating insights into workable solutions for system releases. Collaborate with product managers and engineering teams."
       }
     ],
     "skills": [
