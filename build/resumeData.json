@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Calum Bradley",
-    "description": "Passionate web development engineer skilled in React and Node JS.",
+    "description": "Web development engineer skilled in React and Node JS.",
     "image": "profile_pic.jpg",
     "bio": "Experienced developer with a history of working in the financial services industry, skilled in RBDMS including the management of enterprise scale data driven applications and ETL's using .NET",
     "contactmessage": "Lets stay in touch, feel free to contact me below",
@@ -41,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Prgamming languages with plenty of 'Syntactic sugar'",
+    "skillmessage": "",
     "education": [
       {
         "school": "Mid Cheshire College, Crewe",
