@@ -3,8 +3,8 @@
     "name": "Calum Bradley",
     "description": "Web development engineer skilled in React and Node JS.",
     "image": "profile_pic.jpg",
-    "bio": "Experienced developer with a history of working in the financial services industry, skilled in RBDMS including the management of enterprise scale data driven applications and ETL's using .NET",
-    "contactmessage": "Lets stay in touch, feel free to contact me below",
+    "bio": "Experienced developer with a history of working in the financial services industry. Skilled in full-stack development and RDBMS including the management of enterprise-scale data-driven applications and ETLs using .NET.",
+    "contactmessage": "Contact me below...",
     "email": "calum@calumbradley.com",
     "phone": "",
     "github": "https://github.com/calumbradley",
@@ -65,7 +65,7 @@
       {
         "title": "Platform Engineer",
         "years": "August 2020 - Present",
-        "description": "Management & engineering of a large scale data-driven application architecture utilising .Net and SQL server, full-stack development responsible for change management, bug fixes and version control, achievements include implementing a user landing page and managing ETL performance, monitoring and alerting on application errors. Problem identification owning and driving hot-fixes into implementation using applicable frameworks and service management techniques. Maintenance and incident management with REST API’s critical to service stability."
+        "description": "Management & engineering of a large-scale data-driven application architecture utilising .Net and SQL server, full-stack development responsible for change management, bug fixes, and version control. Some of my achievements include building a bespoke user landing page and managing application ETL performance, monitoring, and alerting on application errors. Problem identification owning and driving code fixes into implementation using applicable frameworks and service management techniques. Maintenance and incident management with REST API’s critical to our application's service stability."
       },
       {
         "title": "Product Specialist",
@@ -104,7 +104,7 @@
       },
       {
         "name": "c#",
-        "level": "40%"
+        "level": "55%"
       }
     ]
   },
