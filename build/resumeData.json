@@ -63,8 +63,13 @@
     ],
     "work": [
       {
+        "title": "Full Stack Developer",
+        "years": "August 2022 - Present",
+        "description": "Fullstack development of large scale enterprise data driven web applications using Node JS and React, working on both the back-end and front-end of systems. responsible for implementation of custom web applications and deployment in private cloud infrastructure, automating ETL and application management using shell scripts, deploying CI / CD techniques using GIT version control management, Participating in the design and creation of scalable software, Testing and fixing bugs or other coding issues."
+      },
+      {
         "title": "Platform Engineer",
-        "years": "August 2020 - Present",
+        "years": "August 2020 - August 2022",
         "description": "Management & engineering of a large-scale data-driven application architecture utilising .Net and SQL server, full-stack development responsible for change management, bug fixes, and version control. Some of my achievements include building a bespoke user landing page and managing application ETL performance, monitoring, and alerting on application errors. Problem identification owning and driving code fixes into implementation using applicable frameworks and service management techniques. Maintenance and incident management with REST API’s critical to our application's service stability."
       },
       {
