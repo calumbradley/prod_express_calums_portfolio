@@ -3,7 +3,7 @@
 
 ### Calum's Portfolio project
 
-A personal resume portfolio website for Calum Bradley to tell the world about his programming skills, the current site uses React, Node Js on the back end, and AWS Ubuntu linux infrastructure, with Route 53 and EC2.
+A personal resume portfolio website for Calum Bradley to tell the world about his programming skills, the current site uses React, Node Js on the back end, and AWS infrastructure with Nginx, Route 53 and EC2.
 
 ## Authors
 
@@ -11,13 +11,12 @@ A personal resume portfolio website for Calum Bradley to tell the world about hi
 
 ##Production
 
-http://calumbradley.com/
+Production site is [https://calumbradley.com/](https://calumbradley.com/).
 
 ## Roadmap
 
-- HTTPS support
 - Add AWS to skills
-
+- Fix the title
 
 ## License
 
@@ -33,12 +32,13 @@ This project forks from [https://github.com/tbakerx/react-resume-template](https
 ### 1. Clone the project
 
 ```shell
-git clone https://github.com/calumbradley/calums_portfolio.git
+git clone git@github.com:calumbradley/prod_express_calums_portfolio.git
 ```
 
 ### 2. Run the project
 ```shell
-npm i
+cd _client
+npm install
 npm start
 ```
 
