@@ -4,7 +4,7 @@ This is a production ready build of my portfolio site ready for deployment with 
 
 ### 1. Clone the project
 ```shell
-git clone https://github.com/calumbradley/prod_calums_portfolio
+git clone git@github.com:calumbradley/prod_express_calums_portfolio.git
 ```
 
 ### 2. Install dependancies
