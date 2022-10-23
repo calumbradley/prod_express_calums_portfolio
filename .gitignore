@@ -140,3 +140,9 @@ docs/
 # Ignore the database
 
 database/
+
+# ignore the servers dependancies
+
+_server/node_modules
+
+# ignore the clients dependancies

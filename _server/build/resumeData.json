@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Calum Bradley",
+    "description": "Web development engineer skilled in React and Node JS.",
+    "image": "profile_pic.jpg",
+    "bio": "Experienced developer with a history of working in the financial services industry. Skilled in full-stack development and RDBMS including the management of enterprise-scale data-driven applications and ETLs using .NET.",
+    "contactmessage": "Contact me below...",
+    "email": "calum@calumbradley.com",
+    "phone": "",
+    "github": "https://github.com/calumbradley",
+    "project": "",
+    "address": {
+      "street": "",
+      "city": "Sandbach",
+      "state": "Cheshire",
+      "zip": "CW11"
+    },
+    "website": "http://www.calumbradley.com",
+    "resumedownload": "./web_calum_resume.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/calumbradley",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#instagram",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/calumbradley",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Mid Cheshire College, Crewe",
+        "degree": "Business Administration NVQ",
+        "graduated": "Jul 2010 - May 2011"
+      },
+      {
+        "school": "Sandbach Sixth Form College, Sandbach",
+        "degree": "3 A Levels, 1 AS level",
+        "graduated": "Sep 2008 - Jul 2010",
+        "description": ""
+      },
+      {
+        "school": "Sandbach School, Sandbach",
+        "degree": "10 GCSEs",
+        "graduated": "Sep 2002 - Jul 2008",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "title": "Full Stack Developer",
+        "years": "August 2022 - Present",
+        "description": "Fullstack development of large scale enterprise data driven web applications using Node JS and React, working on both the back-end and front-end of systems. responsible for implementation of custom web applications and deployment in private cloud infrastructure, automating ETL and application management using shell scripts, deploying CI / CD techniques using GIT version control management, Participating in the design and creation of scalable software, Testing and fixing bugs or other coding issues."
+      },
+      {
+        "title": "Platform Engineer",
+        "years": "August 2020 - August 2022",
+        "description": "Management & engineering of a large-scale data-driven application architecture utilising .Net and SQL server, full-stack development responsible for change management, bug fixes, and version control. Some of my achievements include building a bespoke user landing page and managing application ETL performance, monitoring, and alerting on application errors. Problem identification owning and driving code fixes into implementation using applicable frameworks and service management techniques. Maintenance and incident management with REST API’s critical to our application's service stability."
+      },
+      {
+        "title": "Product Specialist",
+        "years": "December 2015 - July 2020",
+        "description": "Managing queries with; SWIFT, H2H XML file support, API solutions, certificate issues, international payments. Deliver high quality projects, onboarding registrations and focusing on high quality implementation for H2H corporates. Conduct usability testing, constructing test implementation plans and translating insights into workable solutions for system releases. Collaborate with product managers and engineering teams."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "91%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "92%"
+      },
+      {
+        "name": "JSON",
+        "level": "80%"
+      },
+      {
+        "name": ".net",
+        "level": "50%"
+      },
+      {
+        "name": "c#",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  }
+}
