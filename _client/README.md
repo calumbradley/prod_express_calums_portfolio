@@ -1,5 +1,5 @@
 
-# Hi, I'm Calum! 👋
+# Hi, I'm Calum Bradley! 👋
 
 ### Calum's Portfolio project
 
@@ -9,7 +9,7 @@ A personal resume portfolio website for Calum Bradley to tell the world about hi
 
 - [@calumbradley](https://www.github.com/calumbradley)
 
-##Production
+## Production
 
 Production site is [https://calumbradley.com/](https://calumbradley.com/).
 
