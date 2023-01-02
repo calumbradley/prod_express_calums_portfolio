@@ -2,11 +2,12 @@
   "name": "express_host",
   "version": "1.0.0",
   "description": "portfolio_host",
-  "main": "index.js",
+  "main": "./_server/server.js",
   "scripts": {
+    "start": "node ./_server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js",
-    "prod": "node server.js"
+    "prod": "node ./_server/server.js"
   },
   "author": "Calum Bradley",
   "license": "ISC",

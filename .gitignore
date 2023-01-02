@@ -146,3 +146,7 @@ database/
 _server/node_modules
 
 # ignore the clients dependancies
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

@@ -12,9 +12,9 @@ app.use(express.static(path.join(__dirname, 'build')))
 app.use(express.urlencoded({ extended: true }))
 app.use(express.json()) // To parse the incoming requests with JSON payloads
 
-app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, 'client/build', 'index.html'))
-})
+// app.get('/', function (req, res) {
+//   res.sendFile(path.join(__dirname, 'client/build', 'index.html'))
+// })
 
 app.post('/api', (req, res) => {
   res.sendStatus(200)
